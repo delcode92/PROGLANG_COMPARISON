@@ -1,7 +1,10 @@
 sources:
 https://hackersandslackers.com/python-concurrency-asyncio/
+https://medium.com/python-features/understanding-coroutines-tasks-in-depth-in-python-af2a4c0e1073
+https://superfastpython.com/asyncio-gather/
 
 explanation:
 to run asyncIO need somekind of environtment (event loop) that run coroutine.
 which allow asyncIO has non-blocking execution at runtime
 
+event loop is like a conductor in orchestra
